@@ -1,1 +1,3 @@
-# theducks-v1
+# The Ducks
+
+Hello World :robot:
