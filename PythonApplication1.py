@@ -1,3 +1,4 @@
+# Desenvolvido por The Ducks - SESI SENAI SAPUCAIA DO SUL
 start = input()
 
 # pega as informações
