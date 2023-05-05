@@ -1,3 +1,8 @@
-# The Ducks
+# CIPABOT
+<h1> Desenvolvido por: The Ducks </h1>
 
-Hello World :robot:
+<p>Com base no Desafio SESI/SENAI - “Microsoft: Solucionando desafios da indústria brasileira com Inteligência Artificial (IA)”, desenvolvemos um chatbot que agiliza a comunicação entre os colaboradores da indústria e sua equipe da CIPA. O "CIPABOT" serve para se fazer um reporte de qualquer ocorrência que possa prejudicar a vida do(a) industriário(a) em seu ambiente de trabalho ou causar danos materiais à indústria, unindo prevenção, preservação e/ou promoção da saúde e do patrimônio. Para tanto, hospedamos o CIPABOT neste site/aplicativo (https://theduckscontato.wixsite.com/cipabotrs) que, por sua vez, encaminha à plataforma “Microsoft Azure”. </p>
+
+<p>Sabemos que os acidentes de trabalho podem ser causados por fatores ambientais, operacionais e humanos, além dos riscos relativos a agentes físicos, químicos e/ou biológicos. As Inteligências Artificiais são bastante empregadas para realizarem atividades humanas de maneira autônoma e, neste caso, é uma solução que pode ser empregada em qualquer categoria de produção industrial. A Comissão Interna de Prevenção de Acidentes – CIPA é regulamentada pela norma regulamentadora nº 05 do Ministério do Trabalho e Emprego – MTE, e tem como objetivo a prevenção de acidentes e doenças decorrentes do trabalho, de modo a tornar compatível permanentemente o trabalho com a preservação da vida e a promoção da saúde do trabalhador. Desta forma, estamos aperfeiçoando o processo de reporte de acidentes de trabalho, diminuindo o tempo de resposta e aumentando a eficiência na atuação da CIPA na indústria.</p>
+
+<p>O CIPABOT poderá atuar preventivamente ou imediatamente após o acidente, incidente e/ou sinistro, quando o(a) funcionário(a) realizar o reporte, identificando-se com sua matrícula, o setor do ocorrido e os possíveis riscos e/ou causas. Por exemplo, o(a) industriário(a) sinaliza "incêndio" e, com esta informação, o CIPABOT é capaz de acionar a equipe da CIPA enquanto aciona o Corpo de Bombeiros.</p>
